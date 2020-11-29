@@ -1,0 +1,16 @@
+{
+  "name": "name of your device",
+  "device_id": "sonoff-mini-01",
+  "device_stats_interval": 60,
+  "wifi": {
+    "ssid": "your wifi ssid here",
+    "password": "your wifi password here"
+  },
+  "mqtt": {
+    "host": "your mqtt broker",
+    "port": 1883
+  },
+  "ota": {
+    "enabled": true
+  }
+}
