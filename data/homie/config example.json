@@ -8,6 +8,7 @@
   },
   "mqtt": {
     "host": "your mqtt broker",
+    "base_topic": "homie/",
     "port": 1883
   },
   "ota": {
